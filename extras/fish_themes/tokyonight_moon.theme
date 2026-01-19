@@ -10,6 +10,7 @@ fish_color_end ff966c
 fish_color_option c099ff
 fish_color_error ff757f
 fish_color_param fca7ea
+fish_color_valid_path --underline
 fish_color_comment 636da6
 fish_color_selection --background=2d3f76
 fish_color_search_match --background=2d3f76
